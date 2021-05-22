@@ -77,6 +77,6 @@ var objeto1 = {
 ///flor
 //giuliana---presente
 //marcos---PRESENTE
-/* RenaJS M - PRESENTE */
+/* RenaPO M - PRESENTE */
 //rodrigo dura---PRESENTEeeeeeEEEE
 //victor
