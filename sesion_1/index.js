@@ -72,3 +72,11 @@ var objeto1 = {
 
 //TAREA
 //[crear cuenta de github]
+//erick
+//adrian
+///flor
+//giuliana
+//marcos
+//renato
+//rodrigo dura
+//victor
