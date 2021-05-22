@@ -78,5 +78,5 @@ var objeto1 = {
 //giuliana
 //marcos---PRESENTE
 //renato
-//rodrigo dura---PREasdfasdfasdfasdfTE
+//rodrigo dura---PRESENTE
 //victor
