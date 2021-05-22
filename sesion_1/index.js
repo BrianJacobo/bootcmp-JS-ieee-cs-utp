@@ -77,6 +77,6 @@ var objeto1 = {
 ///flor
 //giuliana---presente-eeeee
 //marcos---PRESENTE
-/* Renato M - PRESENTE */
-//rodrigo dura---PRESENTE
+/* RenaPO M - PRESENTE */
+//rodrigo dura---PRESENTEeeeeeEEEE
 //victor
