@@ -27,3 +27,9 @@
   
 //   alert(
 //   );
+//0. git pull
+    //git checkout -b rama-brianjacobo2
+    //recien hacen sus cambios
+//1. git add .
+//2. git commit - "tarea resuelta del 1 al 3"
+//3. git push
