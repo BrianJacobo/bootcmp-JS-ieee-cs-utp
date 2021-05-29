@@ -33,9 +33,7 @@ console.log(z);
 // lastName = "Doe"
 // age = 35
 
-var firstName = "John",
-  lastName = "Doe",
-  age = 35;
+var firstName = "John", lastName = "Doe", age = 35;
 
 //6.miltiplicar 2 numeros(x,y) y mostrarlos
 
