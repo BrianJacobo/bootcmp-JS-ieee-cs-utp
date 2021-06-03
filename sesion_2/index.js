@@ -43,3 +43,5 @@ console.log(person.firstName);
 //1. git add .
 //2. git commit - "tarea resuelta del 1 al 3"
 //3. git push
+
+//MUY BIEN RENATO, SIGUE ASÍ Y SOBRETODO NUNCA PARES DE APRENDER!!
