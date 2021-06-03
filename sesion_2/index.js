@@ -38,7 +38,7 @@ var z=x*y
     var x=15
     var y=9
     var residuo=x/y
-
+    //corrección var residuo = x%y
 
 //mostrar "John" usando el objeto person
 // var person = {
@@ -53,9 +53,13 @@ var person = {
     lastName: "Sahuarico"
 };
 alert(this.firstName + this.lastName);
+//corrección alert(person.firstName + person.lastName);
 //0. git pull
     //git checkout -b rama-brianjacobo2
     //recien hacen sus cambios
 //1. git add .
 //2. git commit - "tarea resuelta del 1 al 3"
 //3. git push
+
+//Genial Giuliana, vas muy bien. Tener en cuenta las correciones en la linea 41 y 56,
+//no te rindas y sobretodo nunca pares de aprendes!!! :D
