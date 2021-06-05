@@ -8,11 +8,7 @@
 //1.Crear una variable llamada "carName" y asignarle el valor de "@tuNombre".
 var carName = 'Marcos';
 //2.Create a variable called x, assign the value 50 to it.
-<<<<<<< HEAD
 var x = 50;
-=======
-var x = 50
->>>>>>> master
 //3.mostrar con un alert la suma de 20+5(a+b)
 var a = 20;
 var b = 5;
@@ -55,3 +51,4 @@ alert(persona.firstName);
 //1. git add .
 //2. git commit - "tarea resuelta del 1 al 3"
 //3. git push
+
