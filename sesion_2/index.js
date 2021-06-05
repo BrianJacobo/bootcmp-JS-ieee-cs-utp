@@ -6,7 +6,7 @@
 
 
 //1.Crear una variable llamada "carName" y asignarle el valor de "@tuNombre".
-var carName = 'Marcos';
+var carName = '@Marcos';
 //2.Create a variable called x, assign the value 50 to it.
 var x = 50;
 //3.mostrar con un alert la suma de 20+5(a+b)
