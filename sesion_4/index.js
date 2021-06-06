@@ -41,6 +41,9 @@
 
 //**************Common HTML Events**********//
     // onchange
+    const onchange = () => {
+        console.log("hola desde funcion onchange()");
+    }
     
     // onclick
     // const html = ()=>{
