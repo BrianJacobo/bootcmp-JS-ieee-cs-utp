@@ -1,0 +1,15 @@
+{
+  "name": "sesion_8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "nodemon": "^2.0.7"
+  }
+}
